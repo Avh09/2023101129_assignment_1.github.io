@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.opa{
+    height:2000px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.blog-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 25px;
+}
+
+
+h1 {
+    color: #dddddd;
+    font-family: 'Amatic SC', sans-serif;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', sans-serif;
+
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #38887b;
+    color: #040404;
+    border: none;
+    cursor: pointer;
+    font-family: 'Amatic SC', sans-serif;
+}
+
+button:hover {
+    background-color: #182e26;
+    color: aliceblue;
+}
+
+#comments {
+    margin-top: 20px;
+    font-family: 'Amatic SC', sans-serif;
+}
+
+#comments ul {
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Amatic SC', sans-serif;
+}
+
+#comments li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    font-family: 'Amatic SC', sans-serif;
+}
+
